@@ -21,7 +21,7 @@ jobs:
         pip install -r requirements.txt
     - name: Fetch1
       run: |        
-        curl -s -L 'https://docs.google.com/spreadsheets/d/1NzaSgHcPkRAOTbMYn2rnZtOi4ku1XiExB4YnZNzJPuY/export?format=csv' | \
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1260956125&single=true&output=csv' | \
           sqlite-utils memory stdin:csv \
           'select * from stdin' \
           --no-detect-types \
