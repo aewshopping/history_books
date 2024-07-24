@@ -23,6 +23,7 @@ jobs:
       run: |        
         curl -s -L 'https://docs.google.com/spreadsheets/d/1NzaSgHcPkRAOTbMYn2rnZtOi4ku1XiExB4YnZNzJPuY/export?format=csv' | \
           sqlite-utils memory stdin:csv \
+          'select * from stdin' \
           --no-detect-types \
           --csv > popular-history-books.csv
     - name: Commit and push
