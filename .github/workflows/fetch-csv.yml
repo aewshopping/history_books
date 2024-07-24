@@ -1,0 +1,36 @@
+name: Fetch CSV from Google Sheets
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-csv:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+        cache: "pip"
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    - name: Fetch
+      run: |        
+        curl -s -L 'https://docs.google.com/spreadsheets/d/1NzaSgHcPkRAOTbMYn2rnZtOi4ku1XiExB4YnZNzJPuY/export?format=csv' | \
+          sqlite-utils memory stdin:csv \
+          --no-detect-types \
+          --csv > popular-history-books.csv
+    - name: Commit and push
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${timestamp}" || exit 0
+        git pull --rebase
+        git push
