@@ -33,6 +33,20 @@ jobs:
           'select * from stdin' \
           --no-detect-types \
           --csv > books-tags.csv
+    - name: Fetch3
+      run: |        
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1565642384&single=true&output=csv' | \
+          sqlite-utils memory stdin:csv \
+          'select pk_tag_id, tag_text, tag_emoji, emoji_unicode, emoji_img_url, tag_sort, fk_cat_id from stdin' \
+          --no-detect-types \
+          --csv > tags.csv
+    - name: Fetch4
+      run: |        
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=631722586&single=true&output=csv' | \
+          sqlite-utils memory stdin:csv \
+          'select * from stdin' \
+          --no-detect-types \
+          --csv > cats.csv
     - name: Commit and push
       run: |-
         git config user.name "Automated"
