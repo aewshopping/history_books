@@ -1,0 +1,18 @@
+{
+  "title": "Popular history books",
+  "description_html": "<p>Testing <a href=\"https://datasette.readthedocs.io/\">Datasette</a> on Glitch with my hand curated list of popular history books.</p><p>The intention is to create a read only database type thing that can be used by my history book review blog <a href='https://popularhistorybooks.com/'>popularhistorybooks.com</a></p>",
+  "databases": {
+    "data": {
+      "tables": {
+        "books": {
+          "sort_desc": "hb_publish_date"
+        }
+      }
+    }
+  },
+  "plugins": {
+    "datasette-cors": {
+      "allow_all": true
+    }
+  }
+}
