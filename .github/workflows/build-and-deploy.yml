@@ -17,12 +17,12 @@ jobs:
       run: |
         pip install -r requirements.txt
     - name: Build SQLite database
-      run: git update-index --chmod=+x "./build-db.sh"
+      run: --chmod=+x ./build-db.sh
     - name: Deploy to Vercel
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
       run: |-
-        datasette publish vercel "./hbooks.db" \
+        datasette publish vercel ./hbooks.db \
           --token $VERCEL_TOKEN \
           --scope "Anthony's projects" \
           --project history-books \
