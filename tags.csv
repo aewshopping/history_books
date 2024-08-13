@@ -1,0 +1,99 @@
+pk_tag_id,tag_text,tag_emoji,emoji_unicode,tag_sort,fk_cat_id
+tag-01-001,2019,2019,1f5d3,1,cat-01
+tag-01-002,2020,2020,1f5d3,2,cat-01
+tag-01-003,2021,2021,1f5d3,3,cat-01
+tag-01-004,2022,2022,1f5d3,4,cat-01
+tag-01-005,2023,2023,1f5d3,5,cat-01
+tag-01-006,2024,2024,1f5d3,6,cat-01
+tag-02-001,Political,👑,1f451,1,cat-02
+tag-02-002,Economic,💰,1f4b0,2,cat-02
+tag-02-003,Social,🚽,1f6bd,3,cat-02
+tag-02-004,Military,⚔️,2694,4,cat-02
+tag-02-005,Cultural,🕯️,1f56f,5,cat-02
+tag-02-006,Evolutionary,🐵,1f435,6,cat-02
+tag-02-007,Historiography,📚,1f4da,7,cat-02
+tag-03-001,Pre-Human,🏞️,1f3de,1,cat-03
+tag-03-002,Pre-Historic,⛺,26fa,2,cat-03
+tag-03-003,Ancient,🏛️,1f3db,3,cat-03
+tag-03-004,Middle Ages,🏰,1f3f0,4,cat-03
+tag-03-005,Early Modern,⛪,26ea,5,cat-03
+tag-03-006,Late Modern,🏭,1f3ed,6,cat-03
+tag-03-007,Contemporary,🏗️,1f3d7,7,cat-03
+tag-03-008,All periods,⛩️,26e9,8,cat-03
+tag-04-001,Europe,🥐,1f950,1,cat-04
+tag-04-002,North America,🍔,1f354,2,cat-04
+tag-04-003,Central and S America,🌽,1f33d,3,cat-04
+tag-04-004,Africa,🍗,1f357,4,cat-04
+tag-04-005,Asia,🍜,1f35c,5,cat-04
+tag-04-006,Australasia,🍤,1f364,6,cat-04
+tag-04-007,Global,🍭,1f36d,7,cat-04
+tag-05-066,Afhganistan,🇦🇫,1f1e6-1f1eb,,cat-05
+tag-05-001,Algeria,🇩🇿,1f1e9-1f1ff,,cat-05
+tag-05-002,Angola,🇦🇴,1f1e6-1f1f4,,cat-05
+tag-05-003,Australia,🇦🇺,1f1e6-1f1fa,,cat-05
+tag-05-004,Austria,🇦🇹,1f1e6-1f1f9,,cat-05
+tag-05-005,Bolivia,🇧🇴,1f1e7-1f1f4,,cat-05
+tag-05-006,Canada,🇨🇦,1f1e8-1f1e6,,cat-05
+tag-05-007,China,🇨🇳,1f1e8-1f1f3,,cat-05
+tag-05-008,Congo,🇨🇬,1f1e8-1f1ec,,cat-05
+tag-05-009,Cuba,🇨🇺,1f1e8-1f1fa,,cat-05
+tag-05-010,Cyprus,🇨🇾,1f1e8-1f1fe,,cat-05
+tag-05-011,Denmark,🇩🇰,1f1e9-1f1f0,,cat-05
+tag-05-012,Egypt,🇪🇬,1f1ea-1f1ec,,cat-05
+tag-05-013,Ethiopia,🇪🇹,1f1ea-1f1f9,,cat-05
+tag-05-014,EU,🇪🇺,1f1ea-1f1fa,,cat-05
+tag-05-015,France,🇫🇷,1f1eb-1f1f7,,cat-05
+tag-05-016,Germany,🇩🇪,1f1e9-1f1ea,,cat-05
+tag-05-017,Greece,🇬🇷,1f1ec-1f1f7,,cat-05
+tag-05-018,Greenland,🇬🇱,1f1ec-1f1f1,,cat-05
+tag-05-019,Guyana,🇬🇾,1f1ec-1f1fe,,cat-05
+tag-05-020,Haiti,🇭🇹,1f1ed-1f1f9,,cat-05
+tag-05-021,Hungary,🇭🇺,1f1ed-1f1fa,,cat-05
+tag-05-022,Iceland,🇮🇸,1f1ee-1f1f8,,cat-05
+tag-05-023,India,🇮🇳,1f1ee-1f1f3,,cat-05
+tag-05-024,Indonesia,🇮🇩,1f1ee-1f1e9,,cat-05
+tag-05-025,Iran,🇮🇷,1f1ee-1f1f7,,cat-05
+tag-05-026,Ireland,🇮🇪,1f1ee-1f1ea,,cat-05
+tag-05-027,Israel,🇮🇱,1f1ee-1f1f1,,cat-05
+tag-05-028,Italy,🇮🇹,1f1ee-1f1f9,,cat-05
+tag-05-029,Jamaica,🇯🇲,1f1ef-1f1f2,,cat-05
+tag-05-030,Japan,🇯🇵,1f1ef-1f1f5,,cat-05
+tag-05-031,Kazakhstan,🇰🇿,1f1f0-1f1ff,,cat-05
+tag-05-032,Kenya,🇰🇪,1f1f0-1f1ea,,cat-05
+tag-05-033,Kiribati,🇰🇮,1f1f0-1f1ee,,cat-05
+tag-05-034,Kyrgyzstan,🇰🇬,1f1f0-1f1ec,,cat-05
+tag-05-035,Madagascar,🇲🇬,1f1f2-1f1ec,,cat-05
+tag-05-036,Malaysia,🇲🇾,1f1f2-1f1fe,,cat-05
+tag-05-037,Mexico,🇲🇽,1f1f2-1f1fd,,cat-05
+tag-05-038,Morocco,🇲🇦,1f1f2-1f1e6,,cat-05
+tag-05-039,Mozambique,🇲🇿,1f1f2-1f1ff,,cat-05
+tag-05-040,Myanmar,🇲🇲,1f1f2-1f1f2,,cat-05
+tag-05-041,Nepal,🇳🇵,1f1f3-1f1f5,,cat-05
+tag-05-042,Netherlands,🇳🇱,1f1f3-1f1f1,,cat-05
+tag-05-043,Nigeria,🇳🇬,1f1f3-1f1ec,,cat-05
+tag-05-044,North Korea,🇰🇵,1f1f0-1f1f5,,cat-05
+tag-05-045,Norway,🇳🇴,1f1f3-1f1f4,,cat-05
+tag-05-046,Panama,🇵🇦,1f1f5-1f1e6,,cat-05
+tag-05-047,Philippines,🇵🇭,1f1f5-1f1ed,,cat-05
+tag-05-048,Portugal,🇵🇹,1f1f5-1f1f9,,cat-05
+tag-05-049,Puerto Rico,🇵🇷,1f1f5-1f1f7,,cat-05
+tag-05-050,Romania,🇷🇴,1f1f7-1f1f4,,cat-05
+tag-05-051,Russia,🇷🇺,1f1f7-1f1fa,,cat-05
+tag-05-052,South Korea,🇰🇷,1f1f0-1f1f7,,cat-05
+tag-05-053,Spain,🇪🇸,1f1ea-1f1f8,,cat-05
+tag-05-054,Sweden,🇸🇪,1f1f8-1f1ea,,cat-05
+tag-05-055,Syria,🇸🇾,1f1f8-1f1fe,,cat-05
+tag-05-056,Tajikistan,🇹🇯,1f1f9-1f1ef,,cat-05
+tag-05-057,Turkey,🇹🇷,1f1f9-1f1f7,,cat-05
+tag-05-058,Turkmenistan,🇹🇲,1f1f9-1f1f2,,cat-05
+tag-05-059,UK,🇬🇧,1f1ec-1f1e7,,cat-05
+tag-05-060,USA,🇺🇸,1f1fa-1f1f8,,cat-05
+tag-05-061,Uzbekistan,🇺🇿,1f1fa-1f1ff,,cat-05
+tag-05-062,Vatican City,🇻🇦,1f1fb-1f1e6,,cat-05
+tag-05-063,Vietnam,🇻🇳,1f1fb-1f1f3,,cat-05
+tag-05-064,Zambia,🇿🇲,1f1ff-1f1f2,,cat-05
+tag-05-065,Zimbabwe,🇿🇼,1f1ff-1f1fc,,cat-05
+tag-06-001,Reviewed,📝,1f4dd,1,cat-06
+tag-07-001,Cundhill prize winner,🥇,1f947,2,cat-07
+tag-07-002,PHB 5 stars award,⭐,2b50,3,cat-07
+tag-07-003,Wolfson prize winner,🏆,1f3c6,4,cat-07

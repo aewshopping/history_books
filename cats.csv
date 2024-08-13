@@ -1,0 +1,8 @@
+pk_cat_id,cat_text,cat_sort,cat_display_type
+cat-01,Publication year,1,image
+cat-02,Historical subject,2,image
+cat-03,Historical period,3,image
+cat-04,Region,4,image
+cat-05,Country,5,image
+cat-06,Reviewed books,6,image
+cat-07,Prizes,7,image
