@@ -3497,10 +3497,6 @@ isbn_10,tag,tag_id
 1541618610,🏭 Late Modern,tag-03-006
 1541618610,👑 Political,tag-02-001
 1541618610,🚽 Social,tag-02-003
-1541619838,2021,tag-01-003
-1541619838,⛪ Early Modern,tag-03-005
-1541619838,🍤 Australasia,tag-04-006
-1541619838,👑 Political,tag-02-001
 154161996X,2023,tag-01-005
 154161996X,🍜 Asia,tag-04-005
 154161996X,🏛️ Ancient,tag-03-003
@@ -4264,6 +4260,10 @@ isbn_10,tag,tag_id
 1803281952,🏛️ Ancient,tag-03-003
 1803281952,🕯️ Cultural,tag-02-005
 1803281952,🥐 Europe,tag-04-001
+1803284633,2021,tag-01-003
+1803284633,⛪ Early Modern,tag-03-005
+1803284633,🍤 Australasia,tag-04-006
+1803284633,👑 Political,tag-02-001
 1803284781,2023,tag-01-005
 1803284781,🇩🇪 Germany,tag-05-016
 1803284781,🏭 Late Modern,tag-03-006
