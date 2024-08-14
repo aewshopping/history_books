@@ -1,11 +1,8 @@
-name: Build and deploy test
+name: Build and deploy
 
 on:
   workflow_dispatch:
 
-permissions:
-  contents: write
-  
 jobs:
   build-and-deploy-test:
     runs-on: ubuntu-latest
@@ -18,9 +15,9 @@ jobs:
         cache: "pip"
     - name: Install dependencies
       run: |
-        pip install -r requirements-test.txt
+        pip install -r requirements.txt
     - name: Build SQLite database
-      run: bash ./build-db-test.sh
+      run: bash ./build-db.sh
     - name: Deploy to vercel
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
