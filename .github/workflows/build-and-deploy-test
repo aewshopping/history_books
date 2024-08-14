@@ -1,0 +1,23 @@
+name: Build and deploy
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.10"
+        cache: "pip"
+    - name: Install dependencies
+      run: |
+        pip install -r requirements-test.txt
+    - name: Build SQLite database
+      run: git update-index --chmod=+x ./build-db-test.sh
