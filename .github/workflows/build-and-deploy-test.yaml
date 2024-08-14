@@ -26,8 +26,7 @@ jobs:
       with:
         path: ./data.db
         write-mode: overwrite
-        contents: |
-          console.log('complete')
+        contents: ./data.db
     - name: Commit and push
       run: |-
         git config user.name "Automated"
