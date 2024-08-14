@@ -29,4 +29,5 @@ jobs:
         datasette publish vercel data.db \
           --token $VERCEL_TOKEN \
           --project history-books-test \
-          --metadata metadata.json
+          --metadata metadata.json \
+          --vercel-json=vercel.json
