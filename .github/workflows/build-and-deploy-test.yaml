@@ -20,7 +20,8 @@ jobs:
       run: |
         pip install -r requirements-test.txt
     - name: Build SQLite database
-      run: git update-index --chmod=+x ./build-db-test.sh
+      run: |
+        sqlite-utils insert history_books/data.db books popular-history-books.csv --csv File
     - name: Deploy to vercel
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
