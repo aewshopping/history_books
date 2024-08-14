@@ -1,5 +1,0 @@
-sqlite-utils
-datasette
-datasette-publish-vercel
-datasette-cors
-datasette-block-robots
