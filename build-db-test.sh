@@ -1,2 +1,2 @@
 #!/bin/bash
-sqlite-utils insert data.db books popular-history-books.csv --csv File
+sqlite-utils insert historybooks/data.db books popular-history-books.csv --csv File
