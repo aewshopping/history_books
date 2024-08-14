@@ -1,4 +1,3 @@
-#!/bin/bash
 sqlite-utils insert data.db books popular-history-books.csv --csv --pk isbn_10
 sqlite-utils insert data.db books_tags books-tags.csv --csv
 sqlite-utils insert data.db tags tags.csv --csv --pk pk_tag_id
