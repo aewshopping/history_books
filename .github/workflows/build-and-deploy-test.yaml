@@ -21,12 +21,11 @@ jobs:
         pip install -r requirements-test.txt
     - name: Build SQLite database
       run: git update-index --chmod=+x ./build-db-test.sh
-    - name: Commit and push
+    - name: Deploy to vercel
+      env:
+        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
       run: |-
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "${timestamp}" || exit 0
-        git pull --rebase
-        git push
+        datasette install datasette-publish-vercel
+        datasette publish vercel data.db \
+          --project history-books \
+          --metadata metadata.json
