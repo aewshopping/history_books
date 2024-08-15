@@ -5,7 +5,10 @@ on:
   push:
     paths:
       - '**.csv'
-
+  workflow_run:
+    workflows: ["Fetch CSV from Google Sheets"]
+    types:
+      - completed
 
 jobs:
   build-and-deploy-test:
