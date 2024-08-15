@@ -2,10 +2,7 @@ name: Build and deploy
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '**.csv'
-  workflow_run:
+  workflow_run: # Would have been simpler to trigger via push but this didn't work when the push originated with a repository_dispath webhook event so changed to run on completion of csv update action
     workflows: ["Fetch CSV from Google Sheets"]
     types:
       - completed
