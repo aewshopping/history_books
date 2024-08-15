@@ -2,7 +2,6 @@ name: Build and deploy
 
 on:
   workflow_dispatch:
-  repository_dispatch:
 
 jobs:
   build-and-deploy-test:
