@@ -1,6 +1,10 @@
 {
-  "title": "Popular history books",
-  "description_html": "<p>Testing <a href=\"https://datasette.readthedocs.io/\">Datasette</a> on Glitch with my hand curated list of popular history books.</p><p>The intention is to create a read only database type thing that can be used by my history book review blog <a href='https://popularhistorybooks.com/'>popularhistorybooks.com</a></p>",
+  "title": "Popular history books mini-database",
+  "description_html": "<br><image src='https://res.cloudinary.com/ds2o5ecdw/image/upload/v1677263037/pophist_static/jeye.png' alt='the beady of eye of the emperor Justinian'><br><br><p>This is a read only mini-database that can be perused independently, but is mainly intended to be consumed by my <a href='https://popularhistorybooks.com/allbooks/'>history book review site / blog</a>.</p><p>If this page looks confusing and you don't know where to start, try this: click on the 'books' table (link  below 👇 just above the bottom). When this loads type 'Aztecs' in the search box. That should kick things off.</p><p>If you know SQL you can do all sorts - this database uses SQLite. If you don't but you want to get an idea of how you can make queries <a href='https://datasette.io/tutorials/learn-sql'>this is a good place to start</a>.</p><p>Here are some notes on <a href='https://github.com/aewshopping/history_books/'>how this is all put together</a>, plus the backing csv data for those who are interested.</p><p>Anthony Webb, London</p><br><br><br>",
+  "license": "ODbL",
+  "license_url": "https://opendatacommons.org/licenses/odbl/",
+  "source": "My history book data",
+  "source_url": "https://github.com/aewshopping/history_books/",
   "databases": {
     "data": {
       "tables": {
