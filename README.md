@@ -2,7 +2,7 @@
 
 ## What's this repo for?
 
-- This repo serves up data on history books published in the UK that I collect and hoard 🙂.
+- This repo serves up data on history books published in the UK, data that I collect and hoard 🙂.
 
 - It stores csv files containing book info, and the instructions to build them into a read only [Datasette](https://datasette.io/) SQLite database, deployed to Vercel.
 
