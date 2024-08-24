@@ -12,9 +12,9 @@
 
 - This then becomes the back end for my [history books blog mini database here](https://popularhistorybooks.com/allbooks/). This site is built using eleventy. Here is the [popular history books website source code on github](https://github.com/aewshopping/ssg-deploy-test).
 
-- Currently I just load in a whole load of books at build time, then use a bit of javascript to hide and show books based on selected website user filters.
+- Previously I just loaded in a whole load of books at build time, then used a bit of javascript to hide and show books based on selected website user filters.
 
-- Later I will allow the front end to properly query the database, assuming I get round to it!
+- Now I query the database by constructing SQL queries based on user input built on the front end. Don't worry it is a very small ready only database so I think it should be ok!
 
 ## Why did I bother?
 
