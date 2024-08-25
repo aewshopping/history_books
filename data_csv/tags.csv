@@ -1,10 +1,12 @@
 pk_tag_id,tag_text,tag_emoji,emoji_unicode,tag_sort,fk_cat_id
-tag-01-001,2019,2019,1f5d3,1,cat-01
-tag-01-002,2020,2020,1f5d3,2,cat-01
-tag-01-003,2021,2021,1f5d3,3,cat-01
-tag-01-004,2022,2022,1f5d3,4,cat-01
-tag-01-005,2023,2023,1f5d3,5,cat-01
-tag-01-006,2024,2024,1f5d3,6,cat-01
+tag-01-001,2019,2019,1f5d3,2,cat-01
+tag-01-002,2020,2020,1f5d3,3,cat-01
+tag-01-003,2021,2021,1f5d3,4,cat-01
+tag-01-004,2022,2022,1f5d3,5,cat-01
+tag-01-005,2023,2023,1f5d3,6,cat-01
+tag-01-006,2024,2024,1f5d3,8,cat-01
+tag-01-007,Golden oldie,Oldies,1f5d3,1,cat-01
+tag-01-008,> 1 year old,> 1 year old,1f5d3,7,cat-01
 tag-02-001,Political,👑,1f451,1,cat-02
 tag-02-002,Economic,💰,1f4b0,2,cat-02
 tag-02-003,Social,🚽,1f6bd,3,cat-02
