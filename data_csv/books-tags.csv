@@ -234,13 +234,11 @@ isbn_10,tag,tag_id
 0141010207,📚 Historiography,tag-02-007
 0141010207,📝 Reviewed,tag-06-001
 0141010207,🥐 Europe,tag-04-001
-0141010207,Golden oldie,tag-01-007
 0141977493,> 1 year old,tag-01-008
 0141977493,🏆 Wolfson prize winner,tag-07-003
 0141977493,🏰 Middle Ages,tag-03-004
 0141977493,🕯️ Cultural,tag-02-005
 0141977493,🥐 Europe,tag-04-001
-0141977493,Golden oldie,tag-01-007
 0190059044,2022,tag-01-004
 0190059044,> 1 year old,tag-01-008
 0190059044,⭐ PHB 5 stars award,tag-07-002
@@ -300,7 +298,6 @@ isbn_10,tag,tag_id
 0190681241,🏗️ Contemporary,tag-03-007
 0190681241,🥐 Europe,tag-04-001
 0190681241,🚽 Social,tag-02-003
-0190681241,Golden oldie,tag-01-007
 0190681616,2020,tag-01-002
 0190681616,> 1 year old,tag-01-008
 0190681616,⚔️ Military,tag-02-004
@@ -339,7 +336,6 @@ isbn_10,tag,tag_id
 0190875348,📝 Reviewed,tag-06-001
 0190875348,🕯️ Cultural,tag-02-005
 0190875348,🥐 Europe,tag-04-001
-0190875348,Golden oldie,tag-01-007
 0190883200,2021,tag-01-003
 0190883200,> 1 year old,tag-01-008
 0190883200,⛩️ All periods,tag-03-008
@@ -556,7 +552,6 @@ isbn_10,tag,tag_id
 0198704054,📝 Reviewed,tag-06-001
 0198704054,🥐 Europe,tag-04-001
 0198704054,🚽 Social,tag-02-003
-0198704054,Golden oldie,tag-01-007
 0198715951,2021,tag-01-003
 0198715951,> 1 year old,tag-01-008
 0198715951,🇫🇷 France,tag-05-015
@@ -615,7 +610,6 @@ isbn_10,tag,tag_id
 0198802862,📝 Reviewed,tag-06-001
 0198802862,🥐 Europe,tag-04-001
 0198802862,🚽 Social,tag-02-003
-0198802862,Golden oldie,tag-01-007
 0198806728,2023,tag-01-005
 0198806728,> 1 year old,tag-01-008
 0198806728,🍜 Asia,tag-04-005
@@ -783,7 +777,6 @@ isbn_10,tag,tag_id
 0199858683,🏛️ Ancient,tag-03-003
 0199858683,👑 Political,tag-02-001
 0199858683,📝 Reviewed,tag-06-001
-0199858683,Golden oldie,tag-01-007
 0199951063,2020,tag-01-002
 0199951063,> 1 year old,tag-01-008
 0199951063,⚔️ Military,tag-02-004
@@ -796,7 +789,6 @@ isbn_10,tag,tag_id
 0199999783,👑 Political,tag-02-001
 0199999783,🥐 Europe,tag-04-001
 0199999783,🚽 Social,tag-02-003
-0199999783,Golden oldie,tag-01-007
 0241003172,2019,tag-01-001
 0241003172,> 1 year old,tag-01-008
 0241003172,⛪ Early Modern,tag-03-005
@@ -1271,7 +1263,6 @@ isbn_10,tag,tag_id
 0241950759,📝 Reviewed,tag-06-001
 0241950759,🕯️ Cultural,tag-02-005
 0241950759,🥐 Europe,tag-04-001
-0241950759,Golden oldie,tag-01-007
 0262044870,2021,tag-01-003
 0262044870,> 1 year old,tag-01-008
 0262044870,🏛️ Ancient,tag-03-003
@@ -1356,7 +1347,6 @@ isbn_10,tag,tag_id
 030018056X,🏆 Wolfson prize winner,tag-07-003
 030018056X,🏭 Late Modern,tag-03-006
 030018056X,🚽 Social,tag-02-003
-030018056X,Golden oldie,tag-01-007
 0300198663,2019,tag-01-001
 0300198663,> 1 year old,tag-01-008
 0300198663,🇺🇸 USA,tag-05-060
@@ -1438,7 +1428,6 @@ isbn_10,tag,tag_id
 0300234589,📝 Reviewed,tag-06-001
 0300234589,🕯️ Cultural,tag-02-005
 0300234589,🥐 Europe,tag-04-001
-0300234589,Golden oldie,tag-01-007
 0300234961,2021,tag-01-003
 0300234961,> 1 year old,tag-01-008
 0300234961,🇺🇸 USA,tag-05-060
@@ -1833,7 +1822,6 @@ isbn_10,tag,tag_id
 0340794704,📝 Reviewed,tag-06-001
 0340794704,🥐 Europe,tag-04-001
 0340794704,🚽 Social,tag-02-003
-0340794704,Golden oldie,tag-01-007
 0367460998,2022,tag-01-004
 0367460998,> 1 year old,tag-01-008
 0367460998,🇨🇳 China,tag-05-007
@@ -2654,7 +2642,6 @@ isbn_10,tag,tag_id
 0857381865,👑 Political,tag-02-001
 0857381865,📝 Reviewed,tag-06-001
 0857381865,🥐 Europe,tag-04-001
-0857381865,Golden oldie,tag-01-007
 0861540824,2021,tag-01-003
 0861540824,> 1 year old,tag-01-008
 0861540824,🇬🇧 UK,tag-05-059
@@ -4326,7 +4313,6 @@ isbn_10,tag,tag_id
 1783784598,📚 Historiography,tag-02-007
 1783784598,📝 Reviewed,tag-06-001
 1783784598,🥐 Europe,tag-04-001
-1783784598,Golden oldie,tag-01-007
 1783965576,2021,tag-01-003
 1783965576,> 1 year old,tag-01-008
 1783965576,🇷🇺 Russia,tag-05-051
@@ -5313,7 +5299,6 @@ isbn_10,tag,tag_id
 1983016993,📝 Reviewed,tag-06-001
 1983016993,🥐 Europe,tag-04-001
 1983016993,🚽 Social,tag-02-003
-1983016993,Golden oldie,tag-01-007
 1984854992,2021,tag-01-003
 1984854992,> 1 year old,tag-01-008
 1984854992,🇺🇸 USA,tag-05-060
