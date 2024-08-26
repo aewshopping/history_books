@@ -8,7 +8,7 @@
 
 - It is based heavily on the [Scottish Rail Announcements repo](https://github.com/simonw/scotrail-datasette) and workflow.
 
-- The published Datasette site lives at [https://history-books-test.vercel.app/](https://history-books-test.vercel.app/).
+- The published Datasette site lives at [https://history-books-blush.vercel.app/](https://history-books-blush.vercel.app/).
 
 - This then becomes the back end for my [history books blog mini database here](https://popularhistorybooks.com/allbooks/). This site is built using eleventy. Here is the [popular history books website source code on github](https://github.com/aewshopping/ssg-deploy-test).
 
