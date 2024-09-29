@@ -250,6 +250,7 @@ isbn_10,tag,tag_id
 0141010207,Over 1 year old,tag-01-008
 0141977493,🏆 Wolfson prize winner,tag-07-003
 0141977493,🏰 Middle Ages,tag-03-004
+0141977493,📀 Wolfson prize shortlisted,tag-07-005
 0141977493,🕯️ Cultural,tag-02-005
 0141977493,🥐 Europe,tag-04-001
 0141977493,Over 1 year old,tag-01-008
@@ -305,10 +306,13 @@ isbn_10,tag,tag_id
 0190673060,👑 Political,tag-02-001
 0190673060,📝 Reviewed,tag-06-001
 0190673060,🥇 Cundhill prize winner,tag-07-001
+0190673060,🥈 Cundhill prize shortlisted,tag-07-004
 0190673060,Over 1 year old,tag-01-008
 0190681241,🇩🇪 Germany,tag-05-016
 0190681241,🏆 Wolfson prize winner,tag-07-003
 0190681241,🏗️ Contemporary,tag-03-007
+0190681241,📀 Wolfson prize shortlisted,tag-07-005
+0190681241,🥈 Cundhill prize shortlisted,tag-07-004
 0190681241,🥐 Europe,tag-04-001
 0190681241,🚽 Social,tag-02-003
 0190681241,Over 1 year old,tag-01-008
@@ -335,6 +339,7 @@ isbn_10,tag,tag_id
 0190860456,🌽 Central and S America,tag-04-003
 0190860456,🍔 North America,tag-04-002
 0190860456,🏰 Middle Ages,tag-03-004
+0190860456,📀 Wolfson prize shortlisted,tag-07-005
 0190860456,🥐 Europe,tag-04-001
 0190860456,Over 1 year old,tag-01-008
 0190864354,2020,tag-01-002
@@ -584,6 +589,7 @@ isbn_10,tag,tag_id
 0198758480,⛪ Early Modern,tag-03-005
 0198758480,🇬🇧 UK,tag-05-059
 0198758480,🏭 Late Modern,tag-03-006
+0198758480,🥈 Cundhill prize shortlisted,tag-07-004
 0198758480,🥐 Europe,tag-04-001
 0198758480,🚽 Social,tag-02-003
 0198758480,Over 1 year old,tag-01-008
@@ -673,6 +679,7 @@ isbn_10,tag,tag_id
 0198843135,🇮🇳 India,tag-05-023
 0198843135,🍜 Asia,tag-04-005
 0198843135,🏭 Late Modern,tag-03-006
+0198843135,📀 Wolfson prize shortlisted,tag-07-005
 0198843135,🥐 Europe,tag-04-001
 0198843135,🚽 Social,tag-02-003
 0198843135,Over 1 year old,tag-01-008
@@ -802,6 +809,7 @@ isbn_10,tag,tag_id
 0199999783,🏆 Wolfson prize winner,tag-07-003
 0199999783,🏛️ Ancient,tag-03-003
 0199999783,👑 Political,tag-02-001
+0199999783,📀 Wolfson prize shortlisted,tag-07-005
 0199999783,🥐 Europe,tag-04-001
 0199999783,🚽 Social,tag-02-003
 0199999783,Over 1 year old,tag-01-008
@@ -811,6 +819,8 @@ isbn_10,tag,tag_id
 0241003172,🏭 Late Modern,tag-03-006
 0241003172,👑 Political,tag-02-001
 0241003172,💰 Economic,tag-02-002
+0241003172,📀 Wolfson prize shortlisted,tag-07-005
+0241003172,🥈 Cundhill prize shortlisted,tag-07-004
 0241003172,Over 1 year old,tag-01-008
 0241003393,2019,tag-01-001
 0241003393,⛩️ All periods,tag-03-008
@@ -820,6 +830,7 @@ isbn_10,tag,tag_id
 0241003393,Over 1 year old,tag-01-008
 0241003911,2019,tag-01-001
 0241003911,⛩️ All periods,tag-03-008
+0241003911,📀 Wolfson prize shortlisted,tag-07-005
 0241003911,🕯️ Cultural,tag-02-005
 0241003911,🥐 Europe,tag-04-001
 0241003911,Over 1 year old,tag-01-008
@@ -832,6 +843,7 @@ isbn_10,tag,tag_id
 0241004284,2022,tag-01-004
 0241004284,🏆 Wolfson prize winner,tag-07-003
 0241004284,🏗️ Contemporary,tag-03-007
+0241004284,📀 Wolfson prize shortlisted,tag-07-005
 0241004284,🥐 Europe,tag-04-001
 0241004284,🚽 Social,tag-02-003
 0241004284,Over 1 year old,tag-01-008
@@ -898,6 +910,7 @@ isbn_10,tag,tag_id
 024128581X,🇬🇧 UK,tag-05-059
 024128581X,🏆 Wolfson prize winner,tag-07-003
 024128581X,👑 Political,tag-02-001
+024128581X,📀 Wolfson prize shortlisted,tag-07-005
 024128581X,🕯️ Cultural,tag-02-005
 024128581X,🥐 Europe,tag-04-001
 024128581X,Over 1 year old,tag-01-008
@@ -920,6 +933,7 @@ isbn_10,tag,tag_id
 0241293812,🏆 Wolfson prize winner,tag-07-003
 0241293812,🏭 Late Modern,tag-03-006
 0241293812,👑 Political,tag-02-001
+0241293812,📀 Wolfson prize shortlisted,tag-07-005
 0241293812,🚽 Social,tag-02-003
 0241293812,Over 1 year old,tag-01-008
 0241294819,2020,tag-01-002
@@ -1041,6 +1055,7 @@ isbn_10,tag,tag_id
 0241413389,⛪ Early Modern,tag-03-005
 0241413389,🇺🇸 USA,tag-05-060
 0241413389,🍔 North America,tag-04-002
+0241413389,📀 Wolfson prize shortlisted,tag-07-005
 0241413389,📝 Reviewed,tag-06-001
 0241413389,🚽 Social,tag-02-003
 0241413389,Over 1 year old,tag-01-008
@@ -1058,6 +1073,7 @@ isbn_10,tag,tag_id
 0241427266,2022,tag-01-004
 0241427266,⛩️ All periods,tag-03-008
 0241427266,🍭 Global,tag-04-007
+0241427266,📀 Wolfson prize shortlisted,tag-07-005
 0241427266,🕯️ Cultural,tag-02-005
 0241427266,Over 1 year old,tag-01-008
 024144067X,2021,tag-01-003
@@ -1256,6 +1272,7 @@ isbn_10,tag,tag_id
 0241583829,🇬🇧 UK,tag-05-059
 0241583829,🏗️ Contemporary,tag-03-007
 0241583829,🏭 Late Modern,tag-03-006
+0241583829,📀 Wolfson prize shortlisted,tag-07-005
 0241583829,🥐 Europe,tag-04-001
 0241583829,🚽 Social,tag-02-003
 0241583829,Over 1 year old,tag-01-008
@@ -1288,6 +1305,7 @@ isbn_10,tag,tag_id
 0241950759,🍗 Africa,tag-04-004
 0241950759,🏆 Wolfson prize winner,tag-07-003
 0241950759,🏛️ Ancient,tag-03-003
+0241950759,📀 Wolfson prize shortlisted,tag-07-005
 0241950759,📝 Reviewed,tag-06-001
 0241950759,🕯️ Cultural,tag-02-005
 0241950759,🥐 Europe,tag-04-001
@@ -1311,6 +1329,7 @@ isbn_10,tag,tag_id
 0295750243,🏭 Late Modern,tag-03-006
 0295750243,💰 Economic,tag-02-002
 0295750243,📝 Reviewed,tag-06-001
+0295750243,🥈 Cundhill prize shortlisted,tag-07-004
 0295750243,🚽 Social,tag-02-003
 0295750243,Over 1 year old,tag-01-008
 0297869671,2022,tag-01-004
@@ -1374,6 +1393,7 @@ isbn_10,tag,tag_id
 030018056X,🍤 Australasia,tag-04-006
 030018056X,🏆 Wolfson prize winner,tag-07-003
 030018056X,🏭 Late Modern,tag-03-006
+030018056X,📀 Wolfson prize shortlisted,tag-07-005
 030018056X,🚽 Social,tag-02-003
 030018056X,Over 1 year old,tag-01-008
 0300198663,2019,tag-01-001
@@ -1453,6 +1473,7 @@ isbn_10,tag,tag_id
 0300234589,🇬🇧 UK,tag-05-059
 0300234589,⭐ PHB 5 stars award,tag-07-002
 0300234589,🏆 Wolfson prize winner,tag-07-003
+0300234589,📀 Wolfson prize shortlisted,tag-07-005
 0300234589,📝 Reviewed,tag-06-001
 0300234589,🕯️ Cultural,tag-02-005
 0300234589,🥐 Europe,tag-04-001
@@ -1492,6 +1513,8 @@ isbn_10,tag,tag_id
 0300238452,Over 1 year old,tag-01-008
 0300243324,2020,tag-01-002
 0300243324,🏗️ Contemporary,tag-03-007
+0300243324,📀 Wolfson prize shortlisted,tag-07-005
+0300243324,🥈 Cundhill prize shortlisted,tag-07-004
 0300243324,🥐 Europe,tag-04-001
 0300243324,🚽 Social,tag-02-003
 0300243324,Over 1 year old,tag-01-008
@@ -1664,6 +1687,7 @@ isbn_10,tag,tag_id
 0300256507,2021,tag-01-003
 0300256507,⛪ Early Modern,tag-03-005
 0300256507,🇬🇧 UK,tag-05-059
+0300256507,📀 Wolfson prize shortlisted,tag-07-005
 0300256507,🕯️ Cultural,tag-02-005
 0300256507,🥐 Europe,tag-04-001
 0300256507,Over 1 year old,tag-01-008
@@ -1904,6 +1928,7 @@ isbn_10,tag,tag_id
 0393541010,🇨🇬 Congo,tag-05-008
 0393541010,🍗 Africa,tag-04-004
 0393541010,🏭 Late Modern,tag-03-006
+0393541010,🥈 Cundhill prize shortlisted,tag-07-004
 0393541010,🚽 Social,tag-02-003
 0393541010,Over 1 year old,tag-01-008
 0393541991,2021,tag-01-003
@@ -1923,6 +1948,7 @@ isbn_10,tag,tag_id
 0393634167,🍭 Global,tag-04-007
 0393634167,🏭 Late Modern,tag-03-006
 0393634167,💰 Economic,tag-02-002
+0393634167,🥈 Cundhill prize shortlisted,tag-07-004
 0393634167,🚽 Social,tag-02-003
 0393634167,Over 1 year old,tag-01-008
 0393652661,2021,tag-01-003
@@ -2131,6 +2157,7 @@ isbn_10,tag,tag_id
 0674244214,🏰 Middle Ages,tag-03-004
 0674244214,👑 Political,tag-02-001
 0674244214,📝 Reviewed,tag-06-001
+0674244214,🥈 Cundhill prize shortlisted,tag-07-004
 0674244214,🥐 Europe,tag-04-001
 0674244214,🚽 Social,tag-02-003
 0674244214,Over 1 year old,tag-01-008
@@ -2172,6 +2199,7 @@ isbn_10,tag,tag_id
 0674737571,🍔 North America,tag-04-002
 0674737571,🏭 Late Modern,tag-03-006
 0674737571,👑 Political,tag-02-001
+0674737571,🥈 Cundhill prize shortlisted,tag-07-004
 0674737571,🚽 Social,tag-02-003
 0674737571,Over 1 year old,tag-01-008
 0674737903,2019,tag-01-001
@@ -2244,6 +2272,7 @@ isbn_10,tag,tag_id
 067498790X,🍜 Asia,tag-04-005
 067498790X,👑 Political,tag-02-001
 067498790X,🕯️ Cultural,tag-02-005
+067498790X,🥈 Cundhill prize shortlisted,tag-07-004
 067498790X,Over 1 year old,tag-01-008
 0674988116,2021,tag-01-003
 0674988116,🇨🇳 China,tag-05-007
@@ -2293,6 +2322,7 @@ isbn_10,tag,tag_id
 0691156522,Over 1 year old,tag-01-008
 0691160090,2019,tag-01-001
 0691160090,🏰 Middle Ages,tag-03-004
+0691160090,📀 Wolfson prize shortlisted,tag-07-005
 0691160090,🕯️ Cultural,tag-02-005
 0691160090,🥐 Europe,tag-04-001
 0691160090,🚽 Social,tag-02-003
@@ -2348,6 +2378,7 @@ isbn_10,tag,tag_id
 0691179468,🏭 Late Modern,tag-03-006
 0691179468,👑 Political,tag-02-001
 0691179468,🕯️ Cultural,tag-02-005
+0691179468,🥈 Cundhill prize shortlisted,tag-07-004
 0691179468,🥐 Europe,tag-04-001
 0691179468,Over 1 year old,tag-01-008
 0691181470,2024,tag-01-006
@@ -2382,6 +2413,7 @@ isbn_10,tag,tag_id
 0691200300,2021,tag-01-003
 0691200300,🇫🇷 France,tag-05-015
 0691200300,🏭 Late Modern,tag-03-006
+0691200300,🥈 Cundhill prize shortlisted,tag-07-004
 0691200300,🥐 Europe,tag-04-001
 0691200300,🚽 Social,tag-02-003
 0691200300,Over 1 year old,tag-01-008
@@ -2401,6 +2433,7 @@ isbn_10,tag,tag_id
 0691210470,Over 1 year old,tag-01-008
 0691215669,2022,tag-01-004
 0691215669,🏰 Middle Ages,tag-03-004
+0691215669,📀 Wolfson prize shortlisted,tag-07-005
 0691215669,🥐 Europe,tag-04-001
 0691215669,🚽 Social,tag-02-003
 0691215669,Over 1 year old,tag-01-008
@@ -2422,6 +2455,8 @@ isbn_10,tag,tag_id
 0691225451,🍜 Asia,tag-04-005
 0691225451,🏭 Late Modern,tag-03-006
 0691225451,👑 Political,tag-02-001
+0691225451,📀 Wolfson prize shortlisted,tag-07-005
+0691225451,🥈 Cundhill prize shortlisted,tag-07-004
 0691225451,Over 1 year old,tag-01-008
 0691230153,2023,tag-01-005
 0691230153,🇩🇿 Algeria,tag-05-001
@@ -2471,6 +2506,7 @@ isbn_10,tag,tag_id
 0713995823,🍜 Asia,tag-04-005
 0713995823,🏰 Middle Ages,tag-03-004
 0713995823,👑 Political,tag-02-001
+0713995823,🥈 Cundhill prize shortlisted,tag-07-004
 0713995823,Over 1 year old,tag-01-008
 0713996560,2023,tag-01-005
 0713996560,🇫🇷 France,tag-05-015
@@ -2481,6 +2517,7 @@ isbn_10,tag,tag_id
 071565439X,2022,tag-01-004
 071565439X,🇬🇧 UK,tag-05-059
 071565439X,🏭 Late Modern,tag-03-006
+071565439X,📀 Wolfson prize shortlisted,tag-07-005
 071565439X,🥐 Europe,tag-04-001
 071565439X,🚽 Social,tag-02-003
 071565439X,Over 1 year old,tag-01-008
@@ -3144,11 +3181,13 @@ isbn_10,tag,tag_id
 1408864371,🏭 Late Modern,tag-03-006
 1408864371,👑 Political,tag-02-001
 1408864371,💰 Economic,tag-02-002
+1408864371,🥈 Cundhill prize shortlisted,tag-07-004
 1408864371,Over 1 year old,tag-01-008
 1408870738,2020,tag-01-002
 1408870738,🇬🇧 UK,tag-05-059
 1408870738,🏗️ Contemporary,tag-03-007
 1408870738,🏭 Late Modern,tag-03-006
+1408870738,📀 Wolfson prize shortlisted,tag-07-005
 1408870738,🥐 Europe,tag-04-001
 1408870738,🚽 Social,tag-02-003
 1408870738,Over 1 year old,tag-01-008
@@ -3352,6 +3391,7 @@ isbn_10,tag,tag_id
 147228187X,2021,tag-01-003
 147228187X,🍭 Global,tag-04-007
 147228187X,🏗️ Contemporary,tag-03-007
+147228187X,📀 Wolfson prize shortlisted,tag-07-005
 147228187X,📚 Historiography,tag-02-007
 147228187X,🚽 Social,tag-02-003
 147228187X,Over 1 year old,tag-01-008
@@ -3447,6 +3487,7 @@ isbn_10,tag,tag_id
 1473695708,🏭 Late Modern,tag-03-006
 1473695708,🏰 Middle Ages,tag-03-004
 1473695708,👑 Political,tag-02-001
+1473695708,📀 Wolfson prize shortlisted,tag-07-005
 1473695708,📝 Reviewed,tag-06-001
 1473695708,🥐 Europe,tag-04-001
 1473695708,Over 1 year old,tag-01-008
@@ -3600,6 +3641,7 @@ isbn_10,tag,tag_id
 1501154559,🌽 Central and S America,tag-04-003
 1501154559,👑 Political,tag-02-001
 1501154559,📝 Reviewed,tag-06-001
+1501154559,🥈 Cundhill prize shortlisted,tag-07-004
 1501154559,Over 1 year old,tag-01-008
 1501166387,2020,tag-01-002
 1501166387,🇺🇸 USA,tag-05-060
@@ -4034,6 +4076,7 @@ isbn_10,tag,tag_id
 1529377587,🚽 Social,tag-02-003
 1529378753,2020,tag-01-002
 1529378753,⛩️ All periods,tag-03-008
+1529378753,📀 Wolfson prize shortlisted,tag-07-005
 1529378753,🕯️ Cultural,tag-02-005
 1529378753,🥐 Europe,tag-04-001
 1529378753,Over 1 year old,tag-01-008
@@ -4131,6 +4174,7 @@ isbn_10,tag,tag_id
 1541618610,🏗️ Contemporary,tag-03-007
 1541618610,🏭 Late Modern,tag-03-006
 1541618610,👑 Political,tag-02-001
+1541618610,🥈 Cundhill prize shortlisted,tag-07-004
 1541618610,🚽 Social,tag-02-003
 1541618610,Over 1 year old,tag-01-008
 154161996X,2023,tag-01-005
@@ -4185,6 +4229,7 @@ isbn_10,tag,tag_id
 1620974592,🌽 Central and S America,tag-04-003
 1620974592,👑 Political,tag-02-001
 1620974592,🥇 Cundhill prize winner,tag-07-001
+1620974592,🥈 Cundhill prize shortlisted,tag-07-004
 1620974592,🚽 Social,tag-02-003
 1620974592,Over 1 year old,tag-01-008
 1631495828,2021,tag-01-003
@@ -4359,6 +4404,7 @@ isbn_10,tag,tag_id
 1781852561,⛪ Early Modern,tag-03-005
 1781852561,🇬🇧 UK,tag-05-059
 1781852561,👑 Political,tag-02-001
+1781852561,🥈 Cundhill prize shortlisted,tag-07-004
 1781852561,🥐 Europe,tag-04-001
 1781852561,Over 1 year old,tag-01-008
 1781858888,2019,tag-01-001
@@ -4399,6 +4445,7 @@ isbn_10,tag,tag_id
 1783352647,🏗️ Contemporary,tag-03-007
 1783352647,📝 Reviewed,tag-06-001
 1783352647,🥇 Cundhill prize winner,tag-07-001
+1783352647,🥈 Cundhill prize shortlisted,tag-07-004
 1783352647,🚽 Social,tag-02-003
 1783352647,Over 1 year old,tag-01-008
 1783528052,2020,tag-01-002
@@ -5199,6 +5246,7 @@ isbn_10,tag,tag_id
 1846144663,⭐ PHB 5 stars award,tag-07-002
 1846144663,🏰 Middle Ages,tag-03-004
 1846144663,👑 Political,tag-02-001
+1846144663,📀 Wolfson prize shortlisted,tag-07-005
 1846144663,📝 Reviewed,tag-06-001
 1846144663,🥐 Europe,tag-04-001
 1846144663,Over 1 year old,tag-01-008
@@ -5208,11 +5256,13 @@ isbn_10,tag,tag_id
 1846145082,🏆 Wolfson prize winner,tag-07-003
 1846145082,👑 Political,tag-02-001
 1846145082,💰 Economic,tag-02-002
+1846145082,📀 Wolfson prize shortlisted,tag-07-005
 1846145082,Over 1 year old,tag-01-008
 1846145627,2020,tag-01-002
 1846145627,🍜 Asia,tag-04-005
 1846145627,🏭 Late Modern,tag-03-006
 1846145627,👑 Political,tag-02-001
+1846145627,🥈 Cundhill prize shortlisted,tag-07-004
 1846145627,Over 1 year old,tag-01-008
 1846145996,2019,tag-01-001
 1846145996,⛪ Early Modern,tag-03-005
@@ -5264,6 +5314,7 @@ isbn_10,tag,tag_id
 184792249X,🏗️ Contemporary,tag-03-007
 184792249X,👑 Political,tag-02-001
 184792249X,🥇 Cundhill prize winner,tag-07-001
+184792249X,🥈 Cundhill prize shortlisted,tag-07-004
 184792249X,Over 1 year old,tag-01-008
 1847923984,2019,tag-01-001
 1847923984,🇺🇸 USA,tag-05-060
@@ -5469,6 +5520,7 @@ isbn_10,tag,tag_id
 1984854992,🍔 North America,tag-04-002
 1984854992,🏭 Late Modern,tag-03-006
 1984854992,🥇 Cundhill prize winner,tag-07-001
+1984854992,🥈 Cundhill prize shortlisted,tag-07-004
 1984854992,🚽 Social,tag-02-003
 1984854992,Over 1 year old,tag-01-008
 1984880098,2021,tag-01-003
