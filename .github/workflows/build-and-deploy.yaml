@@ -24,7 +24,7 @@ jobs:
       run: bash ./build-db.sh
     - name: Deploy to vercel
       env:
-        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+        VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN_28JAN2025 }}
       run: |-
         datasette publish vercel ./data.db \
           --token $VERCEL_TOKEN \
