@@ -31,5 +31,7 @@ jobs:
         datasette publish vercel ./data.db \
           --token $VERCEL_TOKEN \
           --project history-books \
+          --install datasette-block-robots \
+          --install datasette-cors \
           --metadata metadata.json \
           --vercel-json=vercel.json
