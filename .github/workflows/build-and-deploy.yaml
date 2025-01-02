@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-and-deploy-test:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python 3.10
@@ -22,9 +22,12 @@ jobs:
         pip install -r requirements.txt
     - name: Build SQLite database
       run: bash ./build-db.sh
-    - name: Deploy to vercel
+    - name: Vercel environmental info
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+    - name: Install Vercel CLI
+      run: npm install --global vercel@latest
+    - name: Deploy to vercel
       run: |-
         datasette publish vercel ./data.db \
           --token $VERCEL_TOKEN \
