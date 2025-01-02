@@ -22,10 +22,9 @@ jobs:
         pip install -r requirements.txt
     - name: Build SQLite database
       run: bash ./build-db.sh
-    - name: Vercel environmental info
+    - name: Install Vercel CLI
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-    - name: Install Vercel CLI
       run: npm install --global vercel@latest
     - name: Deploy to vercel
       run: |-
