@@ -22,12 +22,11 @@ jobs:
         pip install -r requirements.txt
     - name: Build SQLite database
       run: bash ./build-db.sh
-    - name: Install Vercel CLI
+    - name: Install Vercel CLI and deploy
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-      run: npm install --global vercel@latest
-    - name: Deploy to vercel
       run: |-
+        npm install --global vercel@latest
         datasette publish vercel ./data.db \
           --token $VERCEL_TOKEN \
           --project history-books \
