@@ -23,7 +23,6 @@ jobs:
     - name: Build SQLite database
       run: |
         bash ./build-db.sh
-        pip install datasette-block-robots
     - name: Install Vercel CLI and deploy
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
