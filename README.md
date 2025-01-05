@@ -75,3 +75,13 @@ To fix this I had to use the plugin options to serve a manually create `vercel.j
 A relatively small one but the [datasette-block-robots](https://datasette.io/plugins/datasette-block-robots) plugin doesn't seem to work with Vercel - no `robots.txt` file was created.
 
 The datasette-block-robots plugin worked fine when I used it via Glitch.
+
+### Note to future self...
+
+__Datasette-publish-vercel and GitHub actions__
+
+Need to include commands to install any additional plugins in the GitHub actions yml file itself, ___as arguments to the Datasette publish Vercel plugin___.
+
+Just listing the plugins (eg Datasette block robots) in the requirements file and pip installing requirements.txt is a necessary step but does not by itself deploy the plugins.
+
+Also noting that Vercel CLI stopped working when the Ubuntu image was updated by GitHub because Vercel CLI was no longer included in the image. So need to install manually as part of the yml file.
