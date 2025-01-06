@@ -70,12 +70,6 @@ To fix this I had to use the plugin options to serve a manually create `vercel.j
 
 (There is an [Issue created on this plugin bug](https://github.com/simonw/datasette-publish-vercel/issues/67) with another suggested solution of changing the version of node used in the Vercel settings to `18.x`.)
 
-### Datasette - pain pt 3
-
-A relatively small one but the [datasette-block-robots](https://datasette.io/plugins/datasette-block-robots) plugin doesn't seem to work with Vercel - no `robots.txt` file was created.
-
-The datasette-block-robots plugin worked fine when I used it via Glitch.
-
 ### Note to future self...
 
 __Datasette-publish-vercel and GitHub actions__
