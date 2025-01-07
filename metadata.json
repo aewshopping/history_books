@@ -13,10 +13,5 @@
         }
       }
     }
-  },
-  "plugins": {
-    "datasette-cors": {
-      "allow_all": true
-    }
   }
 }
