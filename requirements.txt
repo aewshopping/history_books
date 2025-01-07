@@ -2,4 +2,3 @@ sqlite-utils
 datasette
 datasette-publish-vercel
 datasette-block-robots
-datasette-cors
