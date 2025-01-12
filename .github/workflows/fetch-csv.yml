@@ -49,6 +49,13 @@ jobs:
           'select * from stdin' \
           --no-detect-types \
           --csv > ./data_csv/cats.csv
+    - name: Fetch5
+      run: |        
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1667511423&single=true&output=tsv' | \
+          sqlite-utils memory stdin:tsv \
+          'select * from stdin' \
+          --no-detect-types \
+          --tsv > ./data_tsv/quotes.tsv
     - name: Commit and push
       run: |-
         git config user.name "Automated"
