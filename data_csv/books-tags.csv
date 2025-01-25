@@ -2491,6 +2491,7 @@ isbn_10,tag,tag_id
 0691189692,2024,tag-01-006
 0691189692,🏰 Middle Ages,tag-03-004
 0691189692,💰 Economic,tag-02-002
+0691189692,📝 Reviewed,tag-06-001
 0691189692,🥐 Europe,tag-04-001
 0691189692,🚽 Social,tag-02-003
 069119212X,2021,tag-01-003
@@ -3529,6 +3530,7 @@ isbn_10,tag,tag_id
 147118367X,2023,tag-01-005
 147118367X,⛪ Early Modern,tag-03-005
 147118367X,🇬🇧 UK,tag-05-059
+147118367X,📝 Reviewed,tag-06-001
 147118367X,🥐 Europe,tag-04-001
 147118367X,🚽 Social,tag-02-003
 147118367X,Over 1 year old,tag-01-008
