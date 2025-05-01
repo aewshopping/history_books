@@ -1,0 +1,56 @@
+name: Fetch CSV from Google Sheets
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+
+permissions:
+  contents: write # Needed to commit the downloaded files back to the repo
+
+jobs:
+  fetch-csv:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v5
+
+    - name: Create data directories
+      run: mkdir -p ./data_csv ./data_tsv # Ensure directories exist
+
+    - name: Fetch popular-history-books.csv
+      run: |
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1260956125&single=true&output=csv' > ./data_csv/popular-history-books.csv
+
+    - name: Fetch books-tags.csv
+      run: |
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1202857970&single=true&output=csv' > ./data_csv/books-tags.csv
+
+    - name: Fetch tags.csv
+      run: |
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1565642384&single=true&output=csv' > ./data_csv/tags.csv
+
+    - name: Fetch cats.csv
+      run: |
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=631722586&single=true&output=csv' > ./data_csv/cats.csv
+
+    - name: Fetch quotes.tsv
+      run: |
+        curl -s -L 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQOvFcmmZ6PRAKBRuyYElR7wsUrvZ0_gwvsQ8o074Z_mz2TvsspQM2Ma4AvKY2PUeqtCbf1nfK6tIc3/pub?gid=1667511423&single=true&output=tsv' > ./data_tsv/quotes.tsv
+
+    - name: Commit and push if changes
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add ./data_csv/*.csv ./data_tsv/*.tsv # Add only the downloaded files
+        # Check if there are staged changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+          exit 0
+        fi
+        # Commit changes
+        timestamp=$(date -u)
+        git commit -m "Update data files: ${timestamp}"
+        # Pull latest changes before pushing
+        git pull --rebase
+        # Push changes
+        git push
