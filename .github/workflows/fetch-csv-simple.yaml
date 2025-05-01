@@ -1,4 +1,4 @@
-name: Fetch CSV from Google Sheets
+name: Simple fetch CSV from Google Sheets
 
 on:
   workflow_dispatch:
