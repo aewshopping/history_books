@@ -1,5 +1,6 @@
 sqlite-utils insert data.db books ./data_csv/popular-history-books.csv --csv --pk isbn_10
 sqlite-utils insert data.db books_tags ./data_csv/books-tags.csv --csv
+sqlite-utils insert data.db quotes ./data-input/quotes.tsv --tsv
 sqlite-utils insert data.db tags ./data_csv/tags.csv --csv --pk pk_tag_id
 sqlite-utils insert data.db cats ./data_csv/cats.csv --csv --pk pk_cat_id
 sqlite-utils transform ./data.db tags --type tag_sort INTEGER
