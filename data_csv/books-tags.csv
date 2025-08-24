@@ -124,6 +124,7 @@ isbn_10,tag,tag_id
 0008339015,👑 Political,tag-02-001
 0008339015,🚽 Social,tag-02-003
 0008339015,Over 1 year old,tag-01-008
+0008347549,2025,tag-01-007
 0008353077,2021,tag-01-003
 0008353077,⭐ PHB 5 stars award,tag-07-002
 0008353077,🍜 Asia,tag-04-005
@@ -180,6 +181,13 @@ isbn_10,tag,tag_id
 000841811X,🕯️ Cultural,tag-02-005
 000841811X,🚽 Social,tag-02-003
 000841811X,Over 1 year old,tag-01-008
+0008436460,2024,tag-01-006
+0008436460,⛩️ All periods,tag-03-008
+0008436460,🍭 Global,tag-04-007
+0008436460,📝 Reviewed,tag-06-001
+0008436460,🕯️ Cultural,tag-02-005
+0008436460,🚽 Social,tag-02-003
+0008436460,Over 1 year old,tag-01-008
 0008436983,2023,tag-01-005
 0008436983,⛪ Early Modern,tag-03-005
 0008436983,🇬🇧 UK,tag-05-059
@@ -276,6 +284,7 @@ isbn_10,tag,tag_id
 006286968X,🍜 Asia,tag-04-005
 006286968X,🏛️ Ancient,tag-03-003
 006286968X,👑 Political,tag-02-001
+006286968X,Over 1 year old,tag-01-008
 0062875353,2021,tag-01-003
 0062875353,⚔️ Military,tag-02-004
 0062875353,⛪ Early Modern,tag-03-005
@@ -884,6 +893,7 @@ isbn_10,tag,tag_id
 0199664730,🥐 Europe,tag-04-001
 0199664730,🚽 Social,tag-02-003
 0199664730,Over 1 year old,tag-01-008
+0199811350,2025,tag-01-007
 0199858683,🇪🇬 Egypt,tag-05-012
 0199858683,⭐ PHB 5 stars award,tag-07-002
 0199858683,🍗 Africa,tag-04-004
@@ -959,6 +969,7 @@ isbn_10,tag,tag_id
 0241004896,🥐 Europe,tag-04-001
 0241004896,🚽 Social,tag-02-003
 0241004896,Over 1 year old,tag-01-008
+0241188539,2025,tag-01-007
 0241199042,2019,tag-01-001
 0241199042,⛪ Early Modern,tag-03-005
 0241199042,🍗 Africa,tag-04-004
@@ -1186,6 +1197,7 @@ isbn_10,tag,tag_id
 0241423473,🇬🇧 UK,tag-05-059
 0241423473,🥐 Europe,tag-04-001
 0241423473,🚽 Social,tag-02-003
+0241423473,Over 1 year old,tag-01-008
 0241426227,2020,tag-01-002
 0241426227,🍭 Global,tag-04-007
 0241426227,🏗️ Contemporary,tag-03-007
@@ -1325,6 +1337,7 @@ isbn_10,tag,tag_id
 0241519632,📝 Reviewed,tag-06-001
 0241519632,🕯️ Cultural,tag-02-005
 0241519632,🚽 Social,tag-02-003
+0241522153,2025,tag-01-007
 0241523427,2023,tag-01-005
 0241523427,⛪ Early Modern,tag-03-005
 0241523427,🏭 Late Modern,tag-03-006
@@ -1453,6 +1466,7 @@ isbn_10,tag,tag_id
 0241611407,👑 Political,tag-02-001
 0241611407,🕯️ Cultural,tag-02-005
 0241611407,Over 1 year old,tag-01-008
+0241611415,2025,tag-01-007
 0241646901,2024,tag-01-006
 0241646901,🇸🇾 Syria,tag-05-055
 0241646901,🍜 Asia,tag-04-005
@@ -1482,6 +1496,7 @@ isbn_10,tag,tag_id
 0241740819,🏗️ Contemporary,tag-03-007
 0241740819,👑 Political,tag-02-001
 0241740819,🥐 Europe,tag-04-001
+0241741238,2025,tag-01-007
 0241950759,🍗 Africa,tag-04-004
 0241950759,🏆 Wolfson prize winner,tag-07-003
 0241950759,🏛️ Ancient,tag-03-003
@@ -2063,11 +2078,13 @@ isbn_10,tag,tag_id
 0300272928,🏭 Late Modern,tag-03-006
 0300272928,👑 Political,tag-02-001
 0300272928,🥐 Europe,tag-04-001
+0300272928,Over 1 year old,tag-01-008
 0300273762,2024,tag-01-006
 0300273762,⚔️ Military,tag-02-004
 0300273762,🇬🇧 UK,tag-05-059
 0300273762,🏭 Late Modern,tag-03-006
 0300273762,🥐 Europe,tag-04-001
+0300273762,Over 1 year old,tag-01-008
 0300273843,2024,tag-01-006
 0300273843,🇺🇸 USA,tag-05-060
 0300273843,🍔 North America,tag-04-002
@@ -2088,6 +2105,7 @@ isbn_10,tag,tag_id
 0300276079,🏰 Middle Ages,tag-03-004
 0300276079,🥐 Europe,tag-04-001
 0300276079,🚽 Social,tag-02-003
+0300276079,Over 1 year old,tag-01-008
 0300278942,2024,tag-01-006
 0300278942,⚔️ Military,tag-02-004
 0300278942,⛪ Early Modern,tag-03-005
@@ -2384,6 +2402,7 @@ isbn_10,tag,tag_id
 0571366341,🏗️ Contemporary,tag-03-007
 0571366341,🥐 Europe,tag-04-001
 0571366341,Over 1 year old,tag-01-008
+0571367151,2025,tag-01-007
 067423717X,2020,tag-01-002
 067423717X,🏭 Late Modern,tag-03-006
 067423717X,🕯️ Cultural,tag-02-005
@@ -2642,6 +2661,7 @@ isbn_10,tag,tag_id
 0691177112,🕯️ Cultural,tag-02-005
 0691177112,🚽 Social,tag-02-003
 0691177112,Over 1 year old,tag-01-008
+0691177589,2025,tag-01-007
 0691178909,2021,tag-01-003
 0691178909,🇷🇺 Russia,tag-05-051
 0691178909,🏭 Late Modern,tag-03-006
@@ -3200,6 +3220,7 @@ isbn_10,tag,tag_id
 1036113485,📝 Reviewed,tag-06-001
 1036113485,🥐 Europe,tag-04-001
 1036113485,🚽 Social,tag-02-003
+1036115534,2025,tag-01-007
 1107026741,2024,tag-01-006
 1107026741,🇩🇪 Germany,tag-05-016
 1107026741,🏭 Late Modern,tag-03-006
@@ -3207,6 +3228,7 @@ isbn_10,tag,tag_id
 1107026741,🕯️ Cultural,tag-02-005
 1107026741,🥐 Europe,tag-04-001
 1107026741,🚽 Social,tag-02-003
+1107026741,Over 1 year old,tag-01-008
 110702773X,2025,tag-01-007
 110702773X,⛩️ All periods,tag-03-008
 110702773X,🍔 North America,tag-04-002
@@ -3344,6 +3366,7 @@ isbn_10,tag,tag_id
 1324002417,🏭 Late Modern,tag-03-006
 1324002417,🥐 Europe,tag-04-001
 1324002417,🚽 Social,tag-02-003
+1324002417,Over 1 year old,tag-01-008
 1324051469,2024,tag-01-006
 1324051469,🍜 Asia,tag-04-005
 1324051469,🏛️ Ancient,tag-03-003
@@ -3429,6 +3452,7 @@ isbn_10,tag,tag_id
 1398110477,🏰 Middle Ages,tag-03-004
 1398110477,👑 Political,tag-02-001
 1398110477,🥐 Europe,tag-04-001
+1398110477,Over 1 year old,tag-01-008
 1398119881,2025,tag-01-007
 1398119881,🇬🇧 UK,tag-05-059
 1398119881,🏰 Middle Ages,tag-03-004
@@ -4431,6 +4455,7 @@ isbn_10,tag,tag_id
 1526653788,👑 Political,tag-02-001
 1526653788,🥐 Europe,tag-04-001
 1526653788,🚽 Social,tag-02-003
+1526663783,2025,tag-01-007
 152666464X,2024,tag-01-006
 152666464X,🇪🇬 Egypt,tag-05-012
 152666464X,🍗 Africa,tag-04-004
@@ -4605,6 +4630,7 @@ isbn_10,tag,tag_id
 1529152224,🍭 Global,tag-04-007
 1529152224,🐵 Evolutionary,tag-02-006
 1529152224,Over 1 year old,tag-01-008
+1529186404,2025,tag-01-007
 1529303265,2021,tag-01-003
 1529303265,🍜 Asia,tag-04-005
 1529303265,🏛️ Ancient,tag-03-003
@@ -4686,6 +4712,7 @@ isbn_10,tag,tag_id
 1529371325,👑 Political,tag-02-001
 1529371325,🥐 Europe,tag-04-001
 1529371325,🚽 Social,tag-02-003
+1529371325,Over 1 year old,tag-01-008
 1529376785,2022,tag-01-004
 1529376785,⛩️ All periods,tag-03-008
 1529376785,🍗 Africa,tag-04-004
@@ -5750,6 +5777,7 @@ isbn_10,tag,tag_id
 1800815905,🍭 Global,tag-04-007
 1800815905,🏭 Late Modern,tag-03-006
 1800815905,🕯️ Cultural,tag-02-005
+1800815905,Over 1 year old,tag-01-008
 1800816251,2024,tag-01-006
 1800816251,🏰 Middle Ages,tag-03-004
 1800816251,💰 Economic,tag-02-002
@@ -5840,6 +5868,7 @@ isbn_10,tag,tag_id
 180399682X,🇬🇧 UK,tag-05-059
 180399682X,🥐 Europe,tag-04-001
 180399682X,🚽 Social,tag-02-003
+180399682X,Over 1 year old,tag-01-008
 1803997095,2024,tag-01-006
 1803997095,🇬🇧 UK,tag-05-059
 1803997095,🏰 Middle Ages,tag-03-004
@@ -5887,6 +5916,7 @@ isbn_10,tag,tag_id
 1805262920,🏗️ Contemporary,tag-03-007
 1805262920,🏭 Late Modern,tag-03-006
 1805262920,👑 Political,tag-02-001
+1805262955,2025,tag-01-007
 1805330020,2025,tag-01-007
 1805330020,🇷🇺 Russia,tag-05-051
 1805330020,🏭 Late Modern,tag-03-006
