@@ -4055,6 +4055,7 @@ isbn_10,tag,tag_id
 1399827049,🏗️ Contemporary,tag-03-007
 1399827049,🏭 Late Modern,tag-03-006
 1399827049,👑 Political,tag-02-001
+1399827049,📝 Reviewed,tag-06-001
 1399827294,2026,#N/A
 1399827294,🇷🇺 Russia,tag-05-051
 1399827294,🍔 North America,tag-04-002
@@ -5622,8 +5623,10 @@ isbn_10,tag,tag_id
 1781858888,🥐 Europe,tag-04-001
 1781858888,Over 1 year old,tag-01-008
 1782276475,2021,tag-01-003
+1782276475,⭐ PHB 5 stars award,tag-07-002
 1782276475,🏰 Middle Ages,tag-03-004
 1782276475,👑 Political,tag-02-001
+1782276475,📝 Reviewed,tag-06-001
 1782276475,🥐 Europe,tag-04-001
 1782276475,Over 1 year old,tag-01-008
 1782439765,2019,tag-01-001
