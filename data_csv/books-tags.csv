@@ -2085,6 +2085,7 @@ isbn_10,tag,tag_id
 0300257457,⛪ Early Modern,tag-03-005
 0300257457,🇬🇧 UK,tag-05-059
 0300257457,👑 Political,tag-02-001
+0300257457,📝 Reviewed,tag-06-001
 0300257457,🥐 Europe,tag-04-001
 0300257457,Over 1 year old,tag-01-008
 0300257619,2023,tag-01-005
@@ -2276,7 +2277,9 @@ isbn_10,tag,tag_id
 0300278942,⚔️ Military,tag-02-004
 0300278942,⛪ Early Modern,tag-03-005
 0300278942,🇬🇧 UK,tag-05-059
+0300278942,⭐ PHB 5 stars award,tag-07-002
 0300278942,👑 Political,tag-02-001
+0300278942,📝 Reviewed,tag-06-001
 0300278942,🥐 Europe,tag-04-001
 0300278942,Over 1 year old,tag-01-008
 030027906X,2026,#N/A
