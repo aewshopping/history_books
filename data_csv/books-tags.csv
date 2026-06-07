@@ -2120,6 +2120,7 @@ isbn_10,tag,tag_id
 0300256582,🏛️ Ancient,tag-03-003
 0300256582,🕯️ Cultural,tag-02-005
 0300256582,🥐 Europe,tag-04-001
+0300256582,Over 1 year old,tag-01-008
 0300256647,2023,tag-01-005
 0300256647,🏛️ Ancient,tag-03-003
 0300256647,👑 Political,tag-02-001
@@ -2439,6 +2440,7 @@ isbn_10,tag,tag_id
 0393292592,🏭 Late Modern,tag-03-006
 0393292592,👑 Political,tag-02-001
 0393292592,💰 Economic,tag-02-002
+0393292592,Over 1 year old,tag-01-008
 0393541010,2021,tag-01-003
 0393541010,🇨🇬 Congo,tag-05-008
 0393541010,🍗 Africa,tag-04-004
@@ -2740,6 +2742,7 @@ isbn_10,tag,tag_id
 0674272609,🏭 Late Modern,tag-03-006
 0674272609,🥐 Europe,tag-04-001
 0674272609,🚽 Social,tag-02-003
+0674272609,Over 1 year old,tag-01-008
 067427833X,2023,tag-01-005
 067427833X,🇲🇽 Mexico,tag-05-037
 067427833X,🌽 Central and S America,tag-04-003
@@ -3088,6 +3091,7 @@ isbn_10,tag,tag_id
 0691213844,🌽 Central and S America,tag-04-003
 0691213844,🏰 Middle Ages,tag-03-004
 0691213844,👑 Political,tag-02-001
+0691213844,📝 Reviewed,tag-06-001
 0691213844,🕯️ Cultural,tag-02-005
 069121526X,2025,tag-01-007
 069121526X,🇬🇷 Greece,tag-05-017
@@ -3597,6 +3601,7 @@ isbn_10,tag,tag_id
 0861549600,🍜 Asia,tag-04-005
 0861549600,👑 Political,tag-02-001
 0861549600,🕯️ Cultural,tag-02-005
+0861549600,Over 1 year old,tag-01-008
 1009221698,2022,tag-01-004
 1009221698,⛩️ All periods,tag-03-008
 1009221698,🕯️ Cultural,tag-02-005
@@ -3683,6 +3688,7 @@ isbn_10,tag,tag_id
 1035903423,🍭 Global,tag-04-007
 1035903423,🏭 Late Modern,tag-03-006
 1035903423,👑 Political,tag-02-001
+1035903423,Over 1 year old,tag-01-008
 1035906368,2025,tag-01-007
 1035906368,🇫🇷 France,tag-05-015
 1035906368,🇬🇧 UK,tag-05-059
@@ -3710,6 +3716,7 @@ isbn_10,tag,tag_id
 1036103986,🇬🇧 UK,tag-05-059
 1036103986,🥐 Europe,tag-04-001
 1036103986,🚽 Social,tag-02-003
+1036103986,Over 1 year old,tag-01-008
 1036113485,2024,tag-01-006
 1036113485,🍜 Asia,tag-04-005
 1036113485,🏰 Middle Ages,tag-03-004
@@ -4006,6 +4013,7 @@ isbn_10,tag,tag_id
 1398513881,🏭 Late Modern,tag-03-006
 1398513881,🕯️ Cultural,tag-02-005
 1398513881,🥐 Europe,tag-04-001
+1398513881,Over 1 year old,tag-01-008
 1398519235,2024,tag-01-006
 1398519235,🇬🇧 UK,tag-05-059
 1398519235,🏰 Middle Ages,tag-03-004
@@ -4025,6 +4033,7 @@ isbn_10,tag,tag_id
 1398719897,🏰 Middle Ages,tag-03-004
 1398719897,👑 Political,tag-02-001
 1398719897,🚽 Social,tag-02-003
+1398719897,Over 1 year old,tag-01-008
 1399011049,2022,tag-01-004
 1399011049,⛪ Early Modern,tag-03-005
 1399011049,🇬🇧 UK,tag-05-059
@@ -4187,6 +4196,7 @@ isbn_10,tag,tag_id
 1399731173,🏛️ Ancient,tag-03-003
 1399731173,🥐 Europe,tag-04-001
 1399731173,🚽 Social,tag-02-003
+1399731173,Over 1 year old,tag-01-008
 1399732889,2025,tag-01-007
 1399732889,⛪ Early Modern,tag-03-005
 1399732889,🇬🇧 UK,tag-05-059
@@ -4263,6 +4273,7 @@ isbn_10,tag,tag_id
 1405953608,🕯️ Cultural,tag-02-005
 1405953608,🥐 Europe,tag-04-001
 1405953608,🚽 Social,tag-02-003
+1405953608,Over 1 year old,tag-01-008
 1408706954,2019,tag-01-001
 1408706954,⛩️ All periods,tag-03-008
 1408706954,📝 Reviewed,tag-06-001
@@ -5243,6 +5254,7 @@ isbn_10,tag,tag_id
 1529034167,⛩️ All periods,tag-03-008
 1529034167,🕯️ Cultural,tag-02-005
 1529034167,🥐 Europe,tag-04-001
+1529034167,Over 1 year old,tag-01-008
 1529037247,2020,tag-01-002
 1529037247,🇬🇧 UK,tag-05-059
 1529037247,🏗️ Contemporary,tag-03-007
@@ -6547,6 +6559,7 @@ isbn_10,tag,tag_id
 1800815875,🕯️ Cultural,tag-02-005
 1800815875,🥐 Europe,tag-04-001
 1800815875,🚽 Social,tag-02-003
+1800815875,Over 1 year old,tag-01-008
 1800815905,2024,tag-01-006
 1800815905,🍭 Global,tag-04-007
 1800815905,🏭 Late Modern,tag-03-006
@@ -6581,6 +6594,7 @@ isbn_10,tag,tag_id
 180096188X,🇬🇧 UK,tag-05-059
 180096188X,🥐 Europe,tag-04-001
 180096188X,🚽 Social,tag-02-003
+180096188X,Over 1 year old,tag-01-008
 1800963203,2026,tag-01-009
 1800963203,🏛️ Ancient,tag-03-003
 1800963203,🕯️ Cultural,tag-02-005
@@ -6878,6 +6892,7 @@ isbn_10,tag,tag_id
 1838957294,🍭 Global,tag-04-007
 1838957294,👑 Political,tag-02-001
 1838957294,🚽 Social,tag-02-003
+1838957294,Over 1 year old,tag-01-008
 1838957855,2024,tag-01-006
 1838957855,🇮🇶 Iraq,tag-05-067
 1838957855,🌽 Central and S America,tag-04-003
