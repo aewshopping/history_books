@@ -57,6 +57,18 @@
 
 3. This creates a `.venv` virtual environment, installs the packages from `requirements.txt` (plus `datasette-codespaces`), builds `data.db` with `build-db.sh`, and starts Datasette. Click "Open in Browser" on the port 8001 pop-up.
 
+## API token
+
+The `data` database is locked using Datasette's permission system (the `allow` block in `metadata.json`) together with the [datasette-auth-tokens](https://github.com/simonw/datasette-auth-tokens) plugin. Every page and API request for the database - HTML, JSON or CSV - needs the token, either in the URL:
+
+```
+https://history-books-blush.vercel.app/data/books.json?_auth_token=YOUR_TOKEN
+```
+
+or as an `Authorization: Bearer YOUR_TOKEN` header.
+
+The token value is read from the `HISTORY_BOOKS_API_TOKEN` environment variable, so it never lives in this repo. On Vercel set it under the project's Settings → Environment Variables. In Codespaces `start-datasette.sh` uses `localdev` unless you have set the variable (e.g. as a Codespaces secret).
+
 ## Pain points
 
 ### Github actions - pain pt 1

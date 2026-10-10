@@ -3,3 +3,4 @@ datasette
 datasette-publish-vercel
 datasette-block-robots
 datasette-cors
+datasette-auth-tokens==0.3

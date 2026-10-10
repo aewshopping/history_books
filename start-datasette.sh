@@ -20,5 +20,10 @@ echo "Building data.db..."
 rm -f data.db
 bash build-db.sh
 
+# The data database requires an API token (see metadata.json). Use a local
+# default unless one is already set, e.g. as a Codespaces secret.
+export HISTORY_BOOKS_API_TOKEN="${HISTORY_BOOKS_API_TOKEN:-localdev}"
+echo "API token for this session: append ?_auth_token=$HISTORY_BOOKS_API_TOKEN to URLs"
+
 echo "Starting Datasette (Codespaces will offer to open the forwarded port)..."
 exec datasette data.db -m metadata.json
