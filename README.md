@@ -46,6 +46,12 @@
 
 9. This database can then be queried directly using the built-in Datasette front end, or used to create API endpoints, which is how my website consumes the data.
 
+## Running Datasette locally in GitHub Codespaces
+
+1. Open a fresh (default) codespace on this repo.
+2. In the terminal run `./start-datasette.sh`
+3. This installs the packages from `requirements.txt` (plus `datasette-codespaces`), builds `data.db` with `build-db.sh`, and starts Datasette. Click "Open in Browser" on the port 8001 pop-up.
+
 ## Pain points
 
 ### Github actions - pain pt 1
