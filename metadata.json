@@ -11,12 +11,28 @@
         "books": {
           "sort_desc": "hb_publish_date"
         }
+      },
+      "allow": {
+        "id": "api"
       }
     }
   },
   "plugins": {
     "datasette-cors": {
       "allow_all": true
+    },
+    "datasette-auth-tokens": {
+      "param": "_auth_token",
+      "tokens": [
+        {
+          "token": {
+            "$env": "HISTORY_BOOKS_API_TOKEN"
+          },
+          "actor": {
+            "id": "api"
+          }
+        }
+      ]
     }
   }
 }

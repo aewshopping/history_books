@@ -32,5 +32,6 @@ jobs:
           --token $VERCEL_TOKEN \
           --project history-books \
           --install datasette-block-robots \
+          --install datasette-auth-tokens==0.3 \
           --metadata metadata.json \
           --vercel-json=vercel.json
