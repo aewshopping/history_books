@@ -5,6 +5,14 @@ set -euo pipefail
 
 cd "$(dirname "$0")"
 
+# Install into a local virtual environment so the sqlite-utils and datasette
+# commands are guaranteed to be on PATH for the rest of this script.
+if [ ! -d .venv ]; then
+  echo "Creating virtual environment..."
+  python3 -m venv .venv
+fi
+source .venv/bin/activate
+
 echo "Installing Python packages..."
 pip install -q -r requirements.txt datasette-codespaces
 
