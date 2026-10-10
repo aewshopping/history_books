@@ -49,8 +49,13 @@
 ## Running Datasette locally in GitHub Codespaces
 
 1. Open a fresh (default) codespace on this repo.
-2. In the terminal run `./start-datasette.sh`
-3. This installs the packages from `requirements.txt` (plus `datasette-codespaces`), builds `data.db` with `build-db.sh`, and starts Datasette. Click "Open in Browser" on the port 8001 pop-up.
+2. In the terminal run:
+
+    ```bash
+    ./start-datasette.sh
+    ```
+
+3. This creates a `.venv` virtual environment, installs the packages from `requirements.txt` (plus `datasette-codespaces`), builds `data.db` with `build-db.sh`, and starts Datasette. Click "Open in Browser" on the port 8001 pop-up.
 
 ## Pain points
 
